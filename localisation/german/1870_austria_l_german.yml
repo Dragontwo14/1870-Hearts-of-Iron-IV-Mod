@@ -177,8 +177,8 @@
  AUS_need_5_trust: "Mindestens 5 Vertrauen mit ihnen."
 
 #custom effect tooltips
- hungarian_protests_effect: "Jeder §Yungarische§! Staat hört auf, ein Kern von §YÖsterreich§! zu sein! \n Start §RWiderstand§!: 60.0% \n Start §CCompliance§!: 20.0%"
- slavic_revolts_effect: "Jeder §Yslawische§! Staat hört auf, ein Kern von §YÖsterreich§! zu sein! \n Start §RWiderstand§! \n Start §CCompliance§!"
+ hungarian_protests_effect: "Jeder §Yungarische§! Staat hört auf, ein Kern von §YÖsterreich§! zu sein! \n Start §RWiderstand§!: 60.0% \n Start §CGehorsam§!: 20.0%"
+ slavic_revolts_effect: "Jeder §Yslawische§! Staat hört auf, ein Kern von §YÖsterreich§! zu sein! \n Start §RWiderstand§! \n Start §CGehorsam§!"
  AUS_increse_hungraian_attitude_effect_tt: "Dies wird die Haltung §YUngarns§! §Gerhöhen§! ."
  AUS_decrese_hungraian_attitude_effect_tt: "Dies wird die Haltung §YUngarns§! §Rverringern§! ."
  AUS_increse_czech_attitude_effect_tt: "Dies wird die Haltung §YBöhmens§! §Gerhöhen§! ."
